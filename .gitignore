@@ -1,0 +1,7 @@
+.vs/
+FortniteLauncher/.vs/
+FortniteLauncher/bin/
+FortniteLauncher/packages/
+FortniteLauncher/obj/
+FortniteLauncher/FodyWeavers.xml
+FortniteLauncher/FodyWeavers.xsd
